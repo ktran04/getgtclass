@@ -15,3 +15,6 @@ git clone https://github.com/ktran04/getgtclass.git
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
+**## Run**
+```python getclass.py

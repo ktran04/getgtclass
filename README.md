@@ -18,5 +18,5 @@ pip install -r requirements.txt
 ```
 
 **## Run**
-```python getclass.py
-```
+python getclass.py
+

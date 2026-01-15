@@ -11,8 +11,7 @@ Automates adding CRN(s) on Georgia Tech's Banner registration page.
 
 ## Setup
 ```powershell
-git clone <YOUR_REPO_URL>
-cd <repo>
+git clone https://github.com/ktran04/getgtclass.git
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
